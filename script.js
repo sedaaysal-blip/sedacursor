@@ -74,7 +74,7 @@ const products = [
         price: "₺119",
         colors: ["red", "black"],
         emoji: "🐱",
-        image: "images/kuromi.png"
+        image: "images/Kuromi.png"
     },
     {
         id: 9,
@@ -102,7 +102,7 @@ const products = [
         price: "₺125",
         colors: ["red", "black"],
         emoji: "🎯",
-        image: "images/kuromi.png"
+        image: "images/Kuromi.png"
     },
     {
         id: 12,
